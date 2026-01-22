@@ -1,0 +1,6 @@
+__pycache__/
+.spamenv/
+artifacts/
+data/
+*.log
+.ipynb_checkpoints/
